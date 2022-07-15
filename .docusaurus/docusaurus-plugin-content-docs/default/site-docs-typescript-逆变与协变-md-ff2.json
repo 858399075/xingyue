@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/逆变与协变",
+  "id": "typescript/逆变与协变",
+  "title": "逆变与协变",
+  "description": "子类型",
+  "source": "@site/docs\\typescript\\逆变与协变.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/逆变与协变",
+  "permalink": "/blog/docs/typescript/逆变与协变",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/逆变与协变.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "声明合并",
+    "permalink": "/blog/docs/typescript/声明合并"
+  },
+  "next": {
+    "title": "工具类型实现",
+    "permalink": "/blog/docs/typescript/工具类型"
+  }
+}

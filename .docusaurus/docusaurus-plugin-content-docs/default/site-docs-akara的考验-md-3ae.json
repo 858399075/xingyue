@@ -1,0 +1,14 @@
+{
+  "unversionedId": "akara的考验",
+  "id": "akara的考验",
+  "title": "akara的考验",
+  "description": "代码记录",
+  "source": "@site/docs\\akara的考验.md",
+  "sourceDirName": ".",
+  "slug": "/akara的考验",
+  "permalink": "/blog/docs/akara的考验",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/akara的考验.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

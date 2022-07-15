@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/basic",
+  "id": "javascript/basic",
+  "title": "基础",
+  "description": "typeof",
+  "source": "@site/docs/javascript/basic.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/basic",
+  "permalink": "/blog/docs/javascript/basic",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/basic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSS",
+    "permalink": "/blog/docs/css"
+  },
+  "next": {
+    "title": "数组",
+    "permalink": "/blog/docs/javascript/数组"
+  }
+}

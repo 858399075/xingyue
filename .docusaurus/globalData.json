@@ -1,0 +1,437 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/blog/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/blog/docs",
+          "mainDocId": "HTML",
+          "docs": [
+            {
+              "id": "编程题",
+              "path": "/blog/docs/编程题",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "编译原理",
+              "path": "/blog/docs/编译原理",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "错误监控",
+              "path": "/blog/docs/错误监控",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "代码段记录",
+              "path": "/blog/docs/代码段记录"
+            },
+            {
+              "id": "第三方库",
+              "path": "/blog/docs/第三方库"
+            },
+            {
+              "id": "计算机网络",
+              "path": "/blog/docs/计算机网络",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "面试题",
+              "path": "/blog/docs/面试题"
+            },
+            {
+              "id": "排序",
+              "path": "/blog/docs/排序",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "其它",
+              "path": "/blog/docs/其它"
+            },
+            {
+              "id": "前端安全",
+              "path": "/blog/docs/前端安全",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "设计模式",
+              "path": "/blog/docs/设计模式",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "数据结构",
+              "path": "/blog/docs/数据结构",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "网站优化",
+              "path": "/blog/docs/网站优化",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "写在前面",
+              "path": "/blog/docs/写在前面"
+            },
+            {
+              "id": "akara的考验",
+              "path": "/blog/docs/akara的考验"
+            },
+            {
+              "id": "browser",
+              "path": "/blog/docs/browser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css",
+              "path": "/blog/docs/css",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker",
+              "path": "/blog/docs/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git",
+              "path": "/blog/docs/git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML",
+              "path": "/blog/docs/HTML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/前端工程化",
+              "path": "/blog/docs/infra/前端工程化",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Babel",
+              "path": "/blog/docs/infra/Babel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/CI",
+              "path": "/blog/docs/infra/CI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/ESLint-and-Prettier",
+              "path": "/blog/docs/infra/ESLint-and-Prettier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/PostCSS",
+              "path": "/blog/docs/infra/PostCSS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Prettier",
+              "path": "/blog/docs/infra/Prettier"
+            },
+            {
+              "id": "infra/Rollup",
+              "path": "/blog/docs/infra/Rollup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Test",
+              "path": "/blog/docs/infra/Test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Webpack",
+              "path": "/blog/docs/infra/Webpack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/blog/docs/intro"
+            },
+            {
+              "id": "javascript/对象",
+              "path": "/blog/docs/javascript/对象",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/函数",
+              "path": "/blog/docs/javascript/函数",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/事件",
+              "path": "/blog/docs/javascript/事件",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/数组",
+              "path": "/blog/docs/javascript/数组",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/正则",
+              "path": "/blog/docs/javascript/正则",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/装饰器",
+              "path": "/blog/docs/javascript/装饰器",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/AJAX",
+              "path": "/blog/docs/javascript/AJAX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/basic",
+              "path": "/blog/docs/javascript/basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/BOM",
+              "path": "/blog/docs/javascript/BOM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Class",
+              "path": "/blog/docs/javascript/Class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Date",
+              "path": "/blog/docs/javascript/Date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/DOM",
+              "path": "/blog/docs/javascript/DOM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Fetch",
+              "path": "/blog/docs/javascript/Fetch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Generator",
+              "path": "/blog/docs/javascript/Generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Graphql",
+              "path": "/blog/docs/javascript/Graphql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/javascript",
+              "path": "/blog/docs/javascript/"
+            },
+            {
+              "id": "javascript/Promise",
+              "path": "/blog/docs/javascript/Promise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Proxy",
+              "path": "/blog/docs/javascript/Proxy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Reflect",
+              "path": "/blog/docs/javascript/Reflect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Set-Map",
+              "path": "/blog/docs/javascript/Set-Map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "koa",
+              "path": "/blog/docs/koa"
+            },
+            {
+              "id": "linux",
+              "path": "/blog/docs/linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mongodb",
+              "path": "/blog/docs/mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mysql",
+              "path": "/blog/docs/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/build-in-modules",
+              "path": "/blog/docs/node/build-in-modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/eventloop",
+              "path": "/blog/docs/node/eventloop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/library",
+              "path": "/blog/docs/node/library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/module",
+              "path": "/blog/docs/node/module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/node",
+              "path": "/blog/docs/node/"
+            },
+            {
+              "id": "node/npm",
+              "path": "/blog/docs/node/npm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/stream",
+              "path": "/blog/docs/node/stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "others",
+              "path": "/blog/docs/others"
+            },
+            {
+              "id": "php",
+              "path": "/blog/docs/php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react-vs-vue",
+              "path": "/blog/docs/react-vs-vue"
+            },
+            {
+              "id": "react/第三方库",
+              "path": "/blog/docs/react/第三方库",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/基础",
+              "path": "/blog/docs/react/基础",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/进阶",
+              "path": "/blog/docs/react/进阶",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/Hook",
+              "path": "/blog/docs/react/Hook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/React",
+              "path": "/blog/docs/react/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/types",
+              "path": "/blog/docs/react/types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/版本更新日志.mdx",
+              "path": "/blog/docs/typescript/版本更新日志.mdx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/工具类型",
+              "path": "/blog/docs/typescript/工具类型",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型操作.mdx",
+              "path": "/blog/docs/typescript/类型操作.mdx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型断言",
+              "path": "/blog/docs/typescript/类型断言",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型守卫",
+              "path": "/blog/docs/typescript/类型守卫",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/逆变与协变",
+              "path": "/blog/docs/typescript/逆变与协变",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/声明合并",
+              "path": "/blog/docs/typescript/声明合并",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/basic",
+              "path": "/blog/docs/typescript/basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/config",
+              "path": "/blog/docs/typescript/config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/declaration",
+              "path": "/blog/docs/typescript/declaration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/typescript",
+              "path": "/blog/docs/typescript/"
+            },
+            {
+              "id": "Untitled",
+              "path": "/blog/docs/Untitled"
+            },
+            {
+              "id": "vue",
+              "path": "/blog/docs/vue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "webgl",
+              "path": "/blog/docs/webgl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "websocket",
+              "path": "/blog/docs/websocket",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/blog/docs/HTML",
+                "label": "HTML"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

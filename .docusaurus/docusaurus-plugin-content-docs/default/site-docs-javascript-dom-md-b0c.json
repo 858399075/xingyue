@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/DOM",
+  "id": "javascript/DOM",
+  "title": "DOM",
+  "description": "Element.scrollLeft | Element.scrollTop",
+  "source": "@site/docs/javascript/DOM.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/DOM",
+  "permalink": "/blog/docs/javascript/DOM",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/DOM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BOM",
+    "permalink": "/blog/docs/javascript/BOM"
+  },
+  "next": {
+    "title": "事件",
+    "permalink": "/blog/docs/javascript/事件"
+  }
+}

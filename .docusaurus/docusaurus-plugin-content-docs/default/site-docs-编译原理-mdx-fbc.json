@@ -1,0 +1,23 @@
+{
+  "unversionedId": "编译原理",
+  "id": "编译原理",
+  "title": "编译原理",
+  "description": "编译器（compiler）",
+  "source": "@site/docs\\编译原理.mdx",
+  "sourceDirName": ".",
+  "slug": "/编译原理",
+  "permalink": "/blog/docs/编译原理",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/编译原理.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "前端安全",
+    "permalink": "/blog/docs/前端安全"
+  },
+  "next": {
+    "title": "错误监控",
+    "permalink": "/blog/docs/错误监控"
+  }
+}

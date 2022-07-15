@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/函数",
+  "id": "javascript/函数",
+  "title": "函数",
+  "description": "函数防抖",
+  "source": "@site/docs\\javascript\\函数.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/函数",
+  "permalink": "/blog/docs/javascript/函数",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/函数.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "对象",
+    "permalink": "/blog/docs/javascript/对象"
+  },
+  "next": {
+    "title": "Class",
+    "permalink": "/blog/docs/javascript/Class"
+  }
+}

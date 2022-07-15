@@ -1,0 +1,25 @@
+{
+  "unversionedId": "browser",
+  "id": "browser",
+  "title": "浏览器相关",
+  "description": "跨域",
+  "source": "@site/docs/browser.md",
+  "sourceDirName": ".",
+  "slug": "/browser",
+  "permalink": "/blog/docs/browser",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/browser.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "代码检查与格式化",
+    "permalink": "/blog/docs/infra/ESLint-and-Prettier"
+  },
+  "next": {
+    "title": "Git",
+    "permalink": "/blog/docs/git"
+  }
+}

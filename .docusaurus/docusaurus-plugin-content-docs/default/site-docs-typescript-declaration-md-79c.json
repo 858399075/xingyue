@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/declaration",
+  "id": "typescript/declaration",
+  "title": "声明文件",
+  "description": "相比于JavaScript，TypeScript存在着变量上下文和类型上下文，如当index.ts被编译成index.js和index.d.ts，index.js包含着变量上下文，而index.d.ts包含着类型上下文（包括变量的声明和类型）",
+  "source": "@site/docs/typescript/declaration.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/declaration",
+  "permalink": "/blog/docs/typescript/declaration",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/declaration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tsconfig.json",
+    "permalink": "/blog/docs/typescript/config"
+  },
+  "next": {
+    "title": "基础",
+    "permalink": "/blog/docs/typescript/basic"
+  }
+}

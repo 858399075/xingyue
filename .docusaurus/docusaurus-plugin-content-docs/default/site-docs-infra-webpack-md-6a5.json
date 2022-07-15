@@ -1,0 +1,23 @@
+{
+  "unversionedId": "infra/Webpack",
+  "id": "infra/Webpack",
+  "title": "Webpack",
+  "description": "mode",
+  "source": "@site/docs/infra/Webpack.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Webpack",
+  "permalink": "/blog/docs/infra/Webpack",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Webpack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PostCSS",
+    "permalink": "/blog/docs/infra/PostCSS"
+  },
+  "next": {
+    "title": "Rollup",
+    "permalink": "/blog/docs/infra/Rollup"
+  }
+}

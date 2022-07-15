@@ -1,0 +1,25 @@
+{
+  "unversionedId": "node/stream",
+  "id": "node/stream",
+  "title": "流与二进制",
+  "description": "Buffer",
+  "source": "@site/docs/node/stream.md",
+  "sourceDirName": "node",
+  "slug": "/node/stream",
+  "permalink": "/blog/docs/node/stream",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/stream.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "事件循环",
+    "permalink": "/blog/docs/node/eventloop"
+  },
+  "next": {
+    "title": "内置模块",
+    "permalink": "/blog/docs/node/build-in-modules"
+  }
+}

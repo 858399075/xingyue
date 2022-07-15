@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Set-Map",
+  "id": "javascript/Set-Map",
+  "title": "Set/Map",
+  "description": "Set",
+  "source": "@site/docs/javascript/Set-Map.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Set-Map",
+  "permalink": "/blog/docs/javascript/Set-Map",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Set-Map.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reflect",
+    "permalink": "/blog/docs/javascript/Reflect"
+  },
+  "next": {
+    "title": "装饰器",
+    "permalink": "/blog/docs/javascript/装饰器"
+  }
+}

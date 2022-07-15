@@ -1,0 +1,25 @@
+{
+  "unversionedId": "vue",
+  "id": "vue",
+  "title": "Vue",
+  "description": "作者的重心已经完全偏向React技术栈，本章节的内容可能和最新版本的Vue有部分出入",
+  "source": "@site/docs/vue.mdx",
+  "sourceDirName": ".",
+  "slug": "/vue",
+  "permalink": "/blog/docs/vue",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vue.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第三方库",
+    "permalink": "/blog/docs/node/library"
+  },
+  "next": {
+    "title": "React",
+    "permalink": "/blog/docs/react/"
+  }
+}

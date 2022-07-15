@@ -1,0 +1,17 @@
+{
+  "permalink": "/blog/blog/面经",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/面经.md",
+  "source": "@site/blog\\面经.md",
+  "title": "面经",
+  "description": "实习面经",
+  "date": "2022-06-28T15:18:50.113Z",
+  "formattedDate": "2022年6月28日",
+  "tags": [],
+  "readingTime": 32.865,
+  "truncated": false,
+  "authors": [],
+  "frontMatter": {
+    "sidebar": "auto",
+    "sidebarDepth": 2
+  }
+}

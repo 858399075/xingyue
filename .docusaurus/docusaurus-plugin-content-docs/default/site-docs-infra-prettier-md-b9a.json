@@ -1,0 +1,14 @@
+{
+  "unversionedId": "infra/Prettier",
+  "id": "infra/Prettier",
+  "title": "Prettier",
+  "description": "",
+  "source": "@site/docs/infra/Prettier.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Prettier",
+  "permalink": "/blog/docs/infra/Prettier",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Prettier.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/装饰器",
+  "id": "javascript/装饰器",
+  "title": "装饰器",
+  "description": "",
+  "source": "@site/docs\\javascript\\装饰器.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/装饰器",
+  "permalink": "/blog/docs/javascript/装饰器",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/装饰器.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set/Map",
+    "permalink": "/blog/docs/javascript/Set-Map"
+  },
+  "next": {
+    "title": "Graphql",
+    "permalink": "/blog/docs/javascript/Graphql"
+  }
+}

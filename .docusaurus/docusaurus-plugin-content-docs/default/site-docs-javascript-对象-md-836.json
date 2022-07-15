@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/对象",
+  "id": "javascript/对象",
+  "title": "对象",
+  "description": "new操作符",
+  "source": "@site/docs\\javascript\\对象.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/对象",
+  "permalink": "/blog/docs/javascript/对象",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/对象.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数组",
+    "permalink": "/blog/docs/javascript/数组"
+  },
+  "next": {
+    "title": "函数",
+    "permalink": "/blog/docs/javascript/函数"
+  }
+}

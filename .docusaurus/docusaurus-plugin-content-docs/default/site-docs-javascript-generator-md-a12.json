@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Generator",
+  "id": "javascript/Generator",
+  "title": "Generator",
+  "description": "Generator是种特殊的函数，也可以叫做遍历器生成函数，其特殊在",
+  "source": "@site/docs/javascript/Generator.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Generator",
+  "permalink": "/blog/docs/javascript/Generator",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Generator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Promise",
+    "permalink": "/blog/docs/javascript/Promise"
+  },
+  "next": {
+    "title": "AJAX",
+    "permalink": "/blog/docs/javascript/AJAX"
+  }
+}

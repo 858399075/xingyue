@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Class",
+  "id": "javascript/Class",
+  "title": "Class",
+  "description": "在以往构造函数的写法中，实例的属性都是执行构造函数时添加的；而通过这种新写法，在执行构造函数之前，实例已经拥有该属性了（以上代码属性的值为undefined，我们也可以最开始的时候就赋值，如：",
+  "source": "@site/docs/javascript/Class.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Class",
+  "permalink": "/blog/docs/javascript/Class",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Class.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "函数",
+    "permalink": "/blog/docs/javascript/函数"
+  },
+  "next": {
+    "title": "Promise",
+    "permalink": "/blog/docs/javascript/Promise"
+  }
+}

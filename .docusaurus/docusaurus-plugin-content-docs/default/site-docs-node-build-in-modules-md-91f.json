@@ -1,0 +1,23 @@
+{
+  "unversionedId": "node/build-in-modules",
+  "id": "node/build-in-modules",
+  "title": "内置模块",
+  "description": "http模块",
+  "source": "@site/docs/node/build-in-modules.md",
+  "sourceDirName": "node",
+  "slug": "/node/build-in-modules",
+  "permalink": "/blog/docs/node/build-in-modules",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/build-in-modules.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "流与二进制",
+    "permalink": "/blog/docs/node/stream"
+  },
+  "next": {
+    "title": "第三方库",
+    "permalink": "/blog/docs/node/library"
+  }
+}

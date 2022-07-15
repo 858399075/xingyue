@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/声明合并",
+  "id": "typescript/声明合并",
+  "title": "声明合并",
+  "description": "Merging Interfaces",
+  "source": "@site/docs\\typescript\\声明合并.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/声明合并",
+  "permalink": "/blog/docs/typescript/声明合并",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/声明合并.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "类型断言",
+    "permalink": "/blog/docs/typescript/类型断言"
+  },
+  "next": {
+    "title": "逆变与协变",
+    "permalink": "/blog/docs/typescript/逆变与协变"
+  }
+}

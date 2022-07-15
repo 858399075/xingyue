@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Promise",
+  "id": "javascript/Promise",
+  "title": "Promise",
+  "description": "核心代码",
+  "source": "@site/docs/javascript/Promise.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Promise",
+  "permalink": "/blog/docs/javascript/Promise",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Promise.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Class",
+    "permalink": "/blog/docs/javascript/Class"
+  },
+  "next": {
+    "title": "Generator",
+    "permalink": "/blog/docs/javascript/Generator"
+  }
+}

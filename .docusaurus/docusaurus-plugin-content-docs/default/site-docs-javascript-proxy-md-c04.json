@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Proxy",
+  "id": "javascript/Proxy",
+  "title": "Proxy",
+  "description": "Proxy 可以理解成，在目标对象之前架设一层“拦截”，外界对该对象的访问，都必须先通过这层拦截，因此提供了一种机制，可以对外界的访问进行过滤和改写。Proxy 这个词的原意是代理，用在这里表示由它来“代理”某些操作，可以译为“代理器”。",
+  "source": "@site/docs/javascript/Proxy.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Proxy",
+  "permalink": "/blog/docs/javascript/Proxy",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Proxy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "正则",
+    "permalink": "/blog/docs/javascript/正则"
+  },
+  "next": {
+    "title": "Reflect",
+    "permalink": "/blog/docs/javascript/Reflect"
+  }
+}

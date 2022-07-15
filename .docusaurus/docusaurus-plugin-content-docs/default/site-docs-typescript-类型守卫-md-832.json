@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/类型守卫",
+  "id": "typescript/类型守卫",
+  "title": "类型守卫",
+  "description": "TypeScript的Control Flow Analysis（控制流分析）能够根据代码逻辑把联合类型narrow到一个更小范围的类型，同时对于unknown的类型我们也可以narrow成一个更具体的类型，这样的代码类型一般称为类型守卫（type guard）",
+  "source": "@site/docs\\typescript\\类型守卫.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/类型守卫",
+  "permalink": "/blog/docs/typescript/类型守卫",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/类型守卫.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "类型操作",
+    "permalink": "/blog/docs/typescript/类型操作.mdx"
+  },
+  "next": {
+    "title": "类型断言",
+    "permalink": "/blog/docs/typescript/类型断言"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "infra/PostCSS",
+  "id": "infra/PostCSS",
+  "title": "PostCSS",
+  "description": "postcss提供了CSS代码的编译功能；postcss-cli允许我们在命令行进行编译；而我们大多数情况是在webpack中搭配使用postcss，此时需要额外安装postcss-loader。",
+  "source": "@site/docs/infra/PostCSS.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/PostCSS",
+  "permalink": "/blog/docs/infra/PostCSS",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/PostCSS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Babel",
+    "permalink": "/blog/docs/infra/Babel"
+  },
+  "next": {
+    "title": "Webpack",
+    "permalink": "/blog/docs/infra/Webpack"
+  }
+}

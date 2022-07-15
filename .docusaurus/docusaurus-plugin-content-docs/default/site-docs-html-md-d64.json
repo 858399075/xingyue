@@ -1,0 +1,21 @@
+{
+  "unversionedId": "HTML",
+  "id": "HTML",
+  "title": "HTML",
+  "description": "浏览器解析流程",
+  "source": "@site/docs/HTML.md",
+  "sourceDirName": ".",
+  "slug": "/HTML",
+  "permalink": "/blog/docs/HTML",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/HTML.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "CSS",
+    "permalink": "/blog/docs/css"
+  }
+}

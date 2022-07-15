@@ -1,0 +1,23 @@
+{
+  "unversionedId": "infra/Rollup",
+  "id": "infra/Rollup",
+  "title": "Rollup",
+  "description": "Webpack作为一个成熟的构建工具被广泛运用在项目的开发当中，而如果我们只是想要开发一个第三方模块，或许Rollup是个不错的选择。",
+  "source": "@site/docs/infra/Rollup.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Rollup",
+  "permalink": "/blog/docs/infra/Rollup",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Rollup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webpack",
+    "permalink": "/blog/docs/infra/Webpack"
+  },
+  "next": {
+    "title": "前端测试",
+    "permalink": "/blog/docs/infra/Test"
+  }
+}

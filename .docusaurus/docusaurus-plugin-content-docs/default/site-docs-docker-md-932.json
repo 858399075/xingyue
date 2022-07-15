@@ -1,0 +1,25 @@
+{
+  "unversionedId": "docker",
+  "id": "docker",
+  "title": "Docker",
+  "description": "安装",
+  "source": "@site/docs/docker.md",
+  "sourceDirName": ".",
+  "slug": "/docker",
+  "permalink": "/blog/docs/docker",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/docker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/blog/docs/linux"
+  },
+  "next": {
+    "title": "设计模式",
+    "permalink": "/blog/docs/设计模式"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/版本更新日志.mdx",
+  "id": "typescript/版本更新日志.mdx",
+  "title": "版本更新日志",
+  "description": "从TypeScript官方版本日志中列举一些日常工作中可能会高频使用的功能。",
+  "source": "@site/docs\\typescript\\版本更新日志.mdx.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/版本更新日志.mdx",
+  "permalink": "/blog/docs/typescript/版本更新日志.mdx",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/版本更新日志.mdx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "工具类型实现",
+    "permalink": "/blog/docs/typescript/工具类型"
+  },
+  "next": {
+    "title": "模块化",
+    "permalink": "/blog/docs/node/module"
+  }
+}

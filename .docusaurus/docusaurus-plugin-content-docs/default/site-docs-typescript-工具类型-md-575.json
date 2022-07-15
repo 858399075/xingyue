@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/工具类型",
+  "id": "typescript/工具类型",
+  "title": "工具类型实现",
+  "description": "Partial",
+  "source": "@site/docs\\typescript\\工具类型.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/工具类型",
+  "permalink": "/blog/docs/typescript/工具类型",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/工具类型.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逆变与协变",
+    "permalink": "/blog/docs/typescript/逆变与协变"
+  },
+  "next": {
+    "title": "版本更新日志",
+    "permalink": "/blog/docs/typescript/版本更新日志.mdx"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "react/基础",
+  "id": "react/基础",
+  "title": "基础",
+  "description": "组件",
+  "source": "@site/docs\\react\\基础.mdx",
+  "sourceDirName": "react",
+  "slug": "/react/基础",
+  "permalink": "/blog/docs/react/基础",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react/基础.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "React",
+    "permalink": "/blog/docs/react/"
+  },
+  "next": {
+    "title": "Hook",
+    "permalink": "/blog/docs/react/Hook"
+  }
+}

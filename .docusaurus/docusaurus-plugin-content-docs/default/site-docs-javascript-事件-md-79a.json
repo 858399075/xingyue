@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/事件",
+  "id": "javascript/事件",
+  "title": "事件",
+  "description": "事件模型",
+  "source": "@site/docs\\javascript\\事件.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/事件",
+  "permalink": "/blog/docs/javascript/事件",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/事件.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DOM",
+    "permalink": "/blog/docs/javascript/DOM"
+  },
+  "next": {
+    "title": "tsconfig.json",
+    "permalink": "/blog/docs/typescript/config"
+  }
+}

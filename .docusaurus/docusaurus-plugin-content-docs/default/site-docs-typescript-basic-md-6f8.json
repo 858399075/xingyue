@@ -1,0 +1,23 @@
+{
+  "unversionedId": "typescript/basic",
+  "id": "typescript/basic",
+  "title": "基础",
+  "description": "类型推导",
+  "source": "@site/docs/typescript/basic.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/basic",
+  "permalink": "/blog/docs/typescript/basic",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/basic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "声明文件",
+    "permalink": "/blog/docs/typescript/declaration"
+  },
+  "next": {
+    "title": "类型操作",
+    "permalink": "/blog/docs/typescript/类型操作.mdx"
+  }
+}

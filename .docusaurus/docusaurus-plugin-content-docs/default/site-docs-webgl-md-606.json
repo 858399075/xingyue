@@ -1,0 +1,25 @@
+{
+  "unversionedId": "webgl",
+  "id": "webgl",
+  "title": "Three.js",
+  "description": "更多代码案例",
+  "source": "@site/docs/webgl.md",
+  "sourceDirName": ".",
+  "slug": "/webgl",
+  "permalink": "/blog/docs/webgl",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/webgl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebSocket",
+    "permalink": "/blog/docs/websocket"
+  },
+  "next": {
+    "title": "php",
+    "permalink": "/blog/docs/php"
+  }
+}

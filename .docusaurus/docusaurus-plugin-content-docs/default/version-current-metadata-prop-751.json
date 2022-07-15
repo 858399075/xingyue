@@ -1,0 +1,955 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "HTML",
+        "href": "/blog/docs/HTML",
+        "docId": "HTML"
+      },
+      {
+        "type": "link",
+        "label": "CSS",
+        "href": "/blog/docs/css",
+        "docId": "css"
+      },
+      {
+        "type": "category",
+        "label": "JavaScript",
+        "items": [
+          {
+            "type": "link",
+            "label": "数组",
+            "href": "/blog/docs/javascript/数组",
+            "docId": "javascript/数组"
+          },
+          {
+            "type": "link",
+            "label": "对象",
+            "href": "/blog/docs/javascript/对象",
+            "docId": "javascript/对象"
+          },
+          {
+            "type": "link",
+            "label": "函数",
+            "href": "/blog/docs/javascript/函数",
+            "docId": "javascript/函数"
+          },
+          {
+            "type": "link",
+            "label": "Class",
+            "href": "/blog/docs/javascript/Class",
+            "docId": "javascript/Class"
+          },
+          {
+            "type": "link",
+            "label": "Promise",
+            "href": "/blog/docs/javascript/Promise",
+            "docId": "javascript/Promise"
+          },
+          {
+            "type": "link",
+            "label": "Generator",
+            "href": "/blog/docs/javascript/Generator",
+            "docId": "javascript/Generator"
+          },
+          {
+            "type": "link",
+            "label": "AJAX",
+            "href": "/blog/docs/javascript/AJAX",
+            "docId": "javascript/AJAX"
+          },
+          {
+            "type": "link",
+            "label": "Fetch",
+            "href": "/blog/docs/javascript/Fetch",
+            "docId": "javascript/Fetch"
+          },
+          {
+            "type": "link",
+            "label": "Date",
+            "href": "/blog/docs/javascript/Date",
+            "docId": "javascript/Date"
+          },
+          {
+            "type": "link",
+            "label": "正则",
+            "href": "/blog/docs/javascript/正则",
+            "docId": "javascript/正则"
+          },
+          {
+            "type": "link",
+            "label": "Proxy",
+            "href": "/blog/docs/javascript/Proxy",
+            "docId": "javascript/Proxy"
+          },
+          {
+            "type": "link",
+            "label": "Reflect",
+            "href": "/blog/docs/javascript/Reflect",
+            "docId": "javascript/Reflect"
+          },
+          {
+            "type": "link",
+            "label": "Set/Map",
+            "href": "/blog/docs/javascript/Set-Map",
+            "docId": "javascript/Set-Map"
+          },
+          {
+            "type": "link",
+            "label": "装饰器",
+            "href": "/blog/docs/javascript/装饰器",
+            "docId": "javascript/装饰器"
+          },
+          {
+            "type": "link",
+            "label": "Graphql",
+            "href": "/blog/docs/javascript/Graphql",
+            "docId": "javascript/Graphql"
+          },
+          {
+            "type": "link",
+            "label": "BOM",
+            "href": "/blog/docs/javascript/BOM",
+            "docId": "javascript/BOM"
+          },
+          {
+            "type": "link",
+            "label": "DOM",
+            "href": "/blog/docs/javascript/DOM",
+            "docId": "javascript/DOM"
+          },
+          {
+            "type": "link",
+            "label": "事件",
+            "href": "/blog/docs/javascript/事件",
+            "docId": "javascript/事件"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/blog/docs/javascript/basic"
+      },
+      {
+        "type": "category",
+        "label": "Typescript",
+        "items": [
+          {
+            "type": "link",
+            "label": "tsconfig.json",
+            "href": "/blog/docs/typescript/config",
+            "docId": "typescript/config"
+          },
+          {
+            "type": "link",
+            "label": "d.ts",
+            "href": "/blog/docs/typescript/declaration",
+            "docId": "typescript/declaration"
+          },
+          {
+            "type": "link",
+            "label": "基础",
+            "href": "/blog/docs/typescript/basic",
+            "docId": "typescript/basic"
+          },
+          {
+            "type": "link",
+            "label": "类型操作",
+            "href": "/blog/docs/typescript/类型操作.mdx",
+            "docId": "typescript/类型操作.mdx"
+          },
+          {
+            "type": "link",
+            "label": "类型守卫",
+            "href": "/blog/docs/typescript/类型守卫",
+            "docId": "typescript/类型守卫"
+          },
+          {
+            "type": "link",
+            "label": "类型断言",
+            "href": "/blog/docs/typescript/类型断言",
+            "docId": "typescript/类型断言"
+          },
+          {
+            "type": "link",
+            "label": "声明合并",
+            "href": "/blog/docs/typescript/声明合并",
+            "docId": "typescript/声明合并"
+          },
+          {
+            "type": "link",
+            "label": "逆变与协变",
+            "href": "/blog/docs/typescript/逆变与协变",
+            "docId": "typescript/逆变与协变"
+          },
+          {
+            "type": "link",
+            "label": "工具类型实现",
+            "href": "/blog/docs/typescript/工具类型",
+            "docId": "typescript/工具类型"
+          },
+          {
+            "type": "link",
+            "label": "版本更新日志",
+            "href": "/blog/docs/typescript/版本更新日志.mdx",
+            "docId": "typescript/版本更新日志.mdx"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Node",
+        "items": [
+          {
+            "type": "link",
+            "label": "模块化",
+            "href": "/blog/docs/node/module",
+            "docId": "node/module"
+          },
+          {
+            "type": "link",
+            "label": "NPM",
+            "href": "/blog/docs/node/npm",
+            "docId": "node/npm"
+          },
+          {
+            "type": "link",
+            "label": "事件循环",
+            "href": "/blog/docs/node/eventloop",
+            "docId": "node/eventloop"
+          },
+          {
+            "type": "link",
+            "label": "Stream",
+            "href": "/blog/docs/node/stream",
+            "docId": "node/stream"
+          },
+          {
+            "type": "link",
+            "label": "内置模块",
+            "href": "/blog/docs/node/build-in-modules",
+            "docId": "node/build-in-modules"
+          },
+          {
+            "type": "link",
+            "label": "第三方库",
+            "href": "/blog/docs/node/library",
+            "docId": "node/library"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Vue",
+        "href": "/blog/docs/vue",
+        "docId": "vue"
+      },
+      {
+        "type": "category",
+        "label": "React",
+        "items": [
+          {
+            "type": "link",
+            "label": "基础",
+            "href": "/blog/docs/react/基础",
+            "docId": "react/基础"
+          },
+          {
+            "type": "link",
+            "label": "Hook",
+            "href": "/blog/docs/react/Hook",
+            "docId": "react/Hook"
+          },
+          {
+            "type": "link",
+            "label": "底层原理",
+            "href": "/blog/docs/react/进阶",
+            "docId": "react/进阶"
+          },
+          {
+            "type": "link",
+            "label": "第三方库",
+            "href": "/blog/docs/react/第三方库",
+            "docId": "react/第三方库"
+          },
+          {
+            "type": "link",
+            "label": "@types/react",
+            "href": "/blog/docs/react/types",
+            "docId": "react/types"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/blog/docs/react/"
+      },
+      {
+        "type": "category",
+        "label": "前端工程化",
+        "items": [
+          {
+            "type": "link",
+            "label": "Babel",
+            "href": "/blog/docs/infra/Babel",
+            "docId": "infra/Babel"
+          },
+          {
+            "type": "link",
+            "label": "PostCSS",
+            "href": "/blog/docs/infra/PostCSS",
+            "docId": "infra/PostCSS"
+          },
+          {
+            "type": "link",
+            "label": "Webpack",
+            "href": "/blog/docs/infra/Webpack",
+            "docId": "infra/Webpack"
+          },
+          {
+            "type": "link",
+            "label": "Rollup",
+            "href": "/blog/docs/infra/Rollup",
+            "docId": "infra/Rollup"
+          },
+          {
+            "type": "link",
+            "label": "前端测试",
+            "href": "/blog/docs/infra/Test",
+            "docId": "infra/Test"
+          },
+          {
+            "type": "link",
+            "label": "持续集成(CI)",
+            "href": "/blog/docs/infra/CI",
+            "docId": "infra/CI"
+          },
+          {
+            "type": "link",
+            "label": "代码检查与格式化",
+            "href": "/blog/docs/infra/ESLint-and-Prettier",
+            "docId": "infra/ESLint-and-Prettier"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/blog/docs/infra/前端工程化"
+      },
+      {
+        "type": "link",
+        "label": "浏览器原理",
+        "href": "/blog/docs/browser",
+        "docId": "browser"
+      },
+      {
+        "type": "link",
+        "label": "Git",
+        "href": "/blog/docs/git",
+        "docId": "git"
+      },
+      {
+        "type": "link",
+        "label": "计算机网络",
+        "href": "/blog/docs/计算机网络",
+        "docId": "计算机网络"
+      },
+      {
+        "type": "link",
+        "label": "前端安全",
+        "href": "/blog/docs/前端安全",
+        "docId": "前端安全"
+      },
+      {
+        "type": "link",
+        "label": "编译原理",
+        "href": "/blog/docs/编译原理",
+        "docId": "编译原理"
+      },
+      {
+        "type": "link",
+        "label": "错误监控",
+        "href": "/blog/docs/错误监控",
+        "docId": "错误监控"
+      },
+      {
+        "type": "link",
+        "label": "性能优化",
+        "href": "/blog/docs/网站优化",
+        "docId": "网站优化"
+      },
+      {
+        "type": "link",
+        "label": "数据结构",
+        "href": "/blog/docs/数据结构",
+        "docId": "数据结构"
+      },
+      {
+        "type": "link",
+        "label": "排序算法",
+        "href": "/blog/docs/排序",
+        "docId": "排序"
+      },
+      {
+        "type": "link",
+        "label": "编程题",
+        "href": "/blog/docs/编程题",
+        "docId": "编程题"
+      },
+      {
+        "type": "link",
+        "label": "MongoDB",
+        "href": "/blog/docs/mongodb",
+        "docId": "mongodb"
+      },
+      {
+        "type": "link",
+        "label": "Mysql",
+        "href": "/blog/docs/mysql",
+        "docId": "mysql"
+      },
+      {
+        "type": "link",
+        "label": "Linux",
+        "href": "/blog/docs/linux",
+        "docId": "linux"
+      },
+      {
+        "type": "link",
+        "label": "Docker",
+        "href": "/blog/docs/docker",
+        "docId": "docker"
+      },
+      {
+        "type": "link",
+        "label": "设计模式",
+        "href": "/blog/docs/设计模式",
+        "docId": "设计模式"
+      },
+      {
+        "type": "link",
+        "label": "WebSocket",
+        "href": "/blog/docs/websocket",
+        "docId": "websocket"
+      },
+      {
+        "type": "link",
+        "label": "Three.js",
+        "href": "/blog/docs/webgl",
+        "docId": "webgl"
+      },
+      {
+        "type": "link",
+        "label": "php",
+        "href": "/blog/docs/php",
+        "docId": "php"
+      }
+    ]
+  },
+  "docs": {
+    "编程题": {
+      "id": "编程题",
+      "title": "编程题",
+      "description": "待更新",
+      "sidebar": "tutorialSidebar"
+    },
+    "编译原理": {
+      "id": "编译原理",
+      "title": "编译原理",
+      "description": "编译器（compiler）",
+      "sidebar": "tutorialSidebar"
+    },
+    "错误监控": {
+      "id": "错误监控",
+      "title": "错误监控",
+      "description": "异常捕获",
+      "sidebar": "tutorialSidebar"
+    },
+    "代码段记录": {
+      "id": "代码段记录",
+      "title": "代码段记录",
+      "description": "代码记录"
+    },
+    "第三方库": {
+      "id": "第三方库",
+      "title": "第三方库",
+      "description": "Three Party Library"
+    },
+    "计算机网络": {
+      "id": "计算机网络",
+      "title": "计算机网络",
+      "description": "状态码",
+      "sidebar": "tutorialSidebar"
+    },
+    "面试题": {
+      "id": "面试题",
+      "title": "面试题",
+      "description": "面试题"
+    },
+    "排序": {
+      "id": "排序",
+      "title": "排序算法",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "其它": {
+      "id": "其它",
+      "title": "其它",
+      "description": "进程间通信"
+    },
+    "前端安全": {
+      "id": "前端安全",
+      "title": "前端安全",
+      "description": "跨站脚本攻击（XSS）",
+      "sidebar": "tutorialSidebar"
+    },
+    "设计模式": {
+      "id": "设计模式",
+      "title": "设计模式",
+      "description": "单例模式",
+      "sidebar": "tutorialSidebar"
+    },
+    "数据结构": {
+      "id": "数据结构",
+      "title": "数据结构",
+      "description": "二叉树",
+      "sidebar": "tutorialSidebar"
+    },
+    "网站优化": {
+      "id": "网站优化",
+      "title": "性能优化",
+      "description": "待完善",
+      "sidebar": "tutorialSidebar"
+    },
+    "写在前面": {
+      "id": "写在前面",
+      "title": "写在前面",
+      "description": "前言"
+    },
+    "akara的考验": {
+      "id": "akara的考验",
+      "title": "akara的考验",
+      "description": "代码记录"
+    },
+    "browser": {
+      "id": "browser",
+      "title": "浏览器相关",
+      "description": "跨域",
+      "sidebar": "tutorialSidebar"
+    },
+    "css": {
+      "id": "css",
+      "title": "CSS",
+      "description": "基础",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker": {
+      "id": "docker",
+      "title": "Docker",
+      "description": "安装",
+      "sidebar": "tutorialSidebar"
+    },
+    "git": {
+      "id": "git",
+      "title": "Git",
+      "description": "基础",
+      "sidebar": "tutorialSidebar"
+    },
+    "HTML": {
+      "id": "HTML",
+      "title": "HTML",
+      "description": "浏览器解析流程",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/前端工程化": {
+      "id": "infra/前端工程化",
+      "title": "前端工程化",
+      "description": "配置文件",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Babel": {
+      "id": "infra/Babel",
+      "title": "Babel",
+      "description": "如果想要了解Babel的底层原理，可以看编译原理一节",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/CI": {
+      "id": "infra/CI",
+      "title": "持续集成(CI)",
+      "description": "市面上存在多款开源的持续集成工具，如Jenkins、travis-ci、Github Action，本博客就是借助travis-ci搭建的，而个人感觉Github Action很明显要更加优秀。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/ESLint-and-Prettier": {
+      "id": "infra/ESLint-and-Prettier",
+      "title": "代码检查与格式化",
+      "description": "ESLint",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/PostCSS": {
+      "id": "infra/PostCSS",
+      "title": "PostCSS",
+      "description": "postcss提供了CSS代码的编译功能；postcss-cli允许我们在命令行进行编译；而我们大多数情况是在webpack中搭配使用postcss，此时需要额外安装postcss-loader。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Prettier": {
+      "id": "infra/Prettier",
+      "title": "Prettier",
+      "description": ""
+    },
+    "infra/Rollup": {
+      "id": "infra/Rollup",
+      "title": "Rollup",
+      "description": "Webpack作为一个成熟的构建工具被广泛运用在项目的开发当中，而如果我们只是想要开发一个第三方模块，或许Rollup是个不错的选择。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Test": {
+      "id": "infra/Test",
+      "title": "前端测试",
+      "description": "我们通常会使用console.log(fn())来测试函数输出是否符合预期，而这种做法有几点缺陷：",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Webpack": {
+      "id": "infra/Webpack",
+      "title": "Webpack",
+      "description": "mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes."
+    },
+    "javascript/对象": {
+      "id": "javascript/对象",
+      "title": "对象",
+      "description": "new操作符",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/函数": {
+      "id": "javascript/函数",
+      "title": "函数",
+      "description": "函数防抖",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/事件": {
+      "id": "javascript/事件",
+      "title": "事件",
+      "description": "事件模型",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/数组": {
+      "id": "javascript/数组",
+      "title": "数组",
+      "description": "数组判断",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/正则": {
+      "id": "javascript/正则",
+      "title": "正则",
+      "description": "正则表达式中分组可以分为捕获分组和非捕获分组。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/装饰器": {
+      "id": "javascript/装饰器",
+      "title": "装饰器",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/AJAX": {
+      "id": "javascript/AJAX",
+      "title": "AJAX",
+      "description": "| readyState | 描述                            |",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/basic": {
+      "id": "javascript/basic",
+      "title": "基础",
+      "description": "typeof",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/BOM": {
+      "id": "javascript/BOM",
+      "title": "BOM",
+      "description": "window",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Class": {
+      "id": "javascript/Class",
+      "title": "Class",
+      "description": "在以往构造函数的写法中，实例的属性都是执行构造函数时添加的；而通过这种新写法，在执行构造函数之前，实例已经拥有该属性了（以上代码属性的值为undefined，我们也可以最开始的时候就赋值，如：",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Date": {
+      "id": "javascript/Date",
+      "title": "Date",
+      "description": "getTime()",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/DOM": {
+      "id": "javascript/DOM",
+      "title": "DOM",
+      "description": "Element.scrollLeft | Element.scrollTop",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Fetch": {
+      "id": "javascript/Fetch",
+      "title": "Fetch",
+      "description": "通常我们可以使用Content-Disposition: attachment响应头部来下载资源。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Generator": {
+      "id": "javascript/Generator",
+      "title": "Generator",
+      "description": "Generator是种特殊的函数，也可以叫做遍历器生成函数，其特殊在",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Graphql": {
+      "id": "javascript/Graphql",
+      "title": "Graphql",
+      "description": "Graphql是一门对标传统RESTful的API查询语言，它的特色在于可以在前端指定服务端返回的数据字段类型、还能够将相关的查询聚合成一个请求。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/javascript": {
+      "id": "javascript/javascript",
+      "title": "JavaScript",
+      "description": ""
+    },
+    "javascript/Promise": {
+      "id": "javascript/Promise",
+      "title": "Promise",
+      "description": "核心代码",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Proxy": {
+      "id": "javascript/Proxy",
+      "title": "Proxy",
+      "description": "Proxy 可以理解成，在目标对象之前架设一层“拦截”，外界对该对象的访问，都必须先通过这层拦截，因此提供了一种机制，可以对外界的访问进行过滤和改写。Proxy 这个词的原意是代理，用在这里表示由它来“代理”某些操作，可以译为“代理器”。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Reflect": {
+      "id": "javascript/Reflect",
+      "title": "Reflect",
+      "description": "Reflect对象的设计目的有这样几个。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Set-Map": {
+      "id": "javascript/Set-Map",
+      "title": "Set/Map",
+      "description": "Set",
+      "sidebar": "tutorialSidebar"
+    },
+    "koa": {
+      "id": "koa",
+      "title": "koa",
+      "description": "Koa"
+    },
+    "linux": {
+      "id": "linux",
+      "title": "Linux",
+      "description": "完善中",
+      "sidebar": "tutorialSidebar"
+    },
+    "mongodb": {
+      "id": "mongodb",
+      "title": "MongoDB",
+      "description": "常用命令",
+      "sidebar": "tutorialSidebar"
+    },
+    "mysql": {
+      "id": "mysql",
+      "title": "Mysql",
+      "description": "主要是记一些API，记忆力下降容易忘",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/build-in-modules": {
+      "id": "node/build-in-modules",
+      "title": "内置模块",
+      "description": "http模块",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/eventloop": {
+      "id": "node/eventloop",
+      "title": "事件循环",
+      "description": "浏览器和Node环境都存在事件循环这一概念，但因为它们基于不同的架构所以实现原理也有些许不同，比如浏览器环境的事件循环是通过主线程和工作线程之间的调度实现的。另外，在Node的 11.0版本的发布之后，同一段代码在两个不同环境的表现也越来越相似了，所以在这里我会主要以浏览器环境介绍事件循环的原理。",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/library": {
+      "id": "node/library",
+      "title": "第三方库",
+      "description": "bluebird",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/module": {
+      "id": "node/module",
+      "title": "模块化",
+      "description": "IIFE",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/node": {
+      "id": "node/node",
+      "title": "Node",
+      "description": ""
+    },
+    "node/npm": {
+      "id": "node/npm",
+      "title": "NPM",
+      "description": ".npmrc",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/stream": {
+      "id": "node/stream",
+      "title": "流与二进制",
+      "description": "Buffer",
+      "sidebar": "tutorialSidebar"
+    },
+    "others": {
+      "id": "others",
+      "title": "前端博客",
+      "description": "[toc]"
+    },
+    "php": {
+      "id": "php",
+      "title": "php",
+      "description": "大学时候记的笔记，如今PHP已死",
+      "sidebar": "tutorialSidebar"
+    },
+    "react-vs-vue": {
+      "id": "react-vs-vue",
+      "title": "react-vs-vue",
+      "description": "React-vs-Vue"
+    },
+    "react/第三方库": {
+      "id": "react/第三方库",
+      "title": "第三方库",
+      "description": "redux",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/基础": {
+      "id": "react/基础",
+      "title": "基础",
+      "description": "组件",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/进阶": {
+      "id": "react/进阶",
+      "title": "底层原理",
+      "description": "Fiber架构",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/Hook": {
+      "id": "react/Hook",
+      "title": "Hook",
+      "description": "一个组件从创建到销毁，中间会经历无数次重新渲染（渲染指调用函数生成虚拟DOM，通过Diff操作真实DOM），多次函数调用自然意味着会存在多个函数作用域。",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/React": {
+      "id": "react/React",
+      "title": "React",
+      "description": "虚拟DOM",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/types": {
+      "id": "react/types",
+      "title": "types",
+      "description": "参考https://react-typescript-cheatsheet.netlify.app/",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/版本更新日志.mdx": {
+      "id": "typescript/版本更新日志.mdx",
+      "title": "版本更新日志",
+      "description": "从TypeScript官方版本日志中列举一些日常工作中可能会高频使用的功能。",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/工具类型": {
+      "id": "typescript/工具类型",
+      "title": "工具类型实现",
+      "description": "Partial",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型操作.mdx": {
+      "id": "typescript/类型操作.mdx",
+      "title": "类型操作",
+      "description": "typeof",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型断言": {
+      "id": "typescript/类型断言",
+      "title": "类型断言",
+      "description": "const assertion",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型守卫": {
+      "id": "typescript/类型守卫",
+      "title": "类型守卫",
+      "description": "TypeScript的Control Flow Analysis（控制流分析）能够根据代码逻辑把联合类型narrow到一个更小范围的类型，同时对于unknown的类型我们也可以narrow成一个更具体的类型，这样的代码类型一般称为类型守卫（type guard）",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/逆变与协变": {
+      "id": "typescript/逆变与协变",
+      "title": "逆变与协变",
+      "description": "子类型",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/声明合并": {
+      "id": "typescript/声明合并",
+      "title": "声明合并",
+      "description": "Merging Interfaces",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/basic": {
+      "id": "typescript/basic",
+      "title": "基础",
+      "description": "类型推导",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/config": {
+      "id": "typescript/config",
+      "title": "tsconfig.json",
+      "description": "compilerOptions",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/declaration": {
+      "id": "typescript/declaration",
+      "title": "声明文件",
+      "description": "相比于JavaScript，TypeScript存在着变量上下文和类型上下文，如当index.ts被编译成index.js和index.d.ts，index.js包含着变量上下文，而index.d.ts包含着类型上下文（包括变量的声明和类型）",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/typescript": {
+      "id": "typescript/typescript",
+      "title": "TypeScript",
+      "description": ""
+    },
+    "Untitled": {
+      "id": "Untitled",
+      "title": "Untitled",
+      "description": ""
+    },
+    "vue": {
+      "id": "vue",
+      "title": "Vue",
+      "description": "作者的重心已经完全偏向React技术栈，本章节的内容可能和最新版本的Vue有部分出入",
+      "sidebar": "tutorialSidebar"
+    },
+    "webgl": {
+      "id": "webgl",
+      "title": "Three.js",
+      "description": "更多代码案例",
+      "sidebar": "tutorialSidebar"
+    },
+    "websocket": {
+      "id": "websocket",
+      "title": "WebSocket",
+      "description": "基本用法",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

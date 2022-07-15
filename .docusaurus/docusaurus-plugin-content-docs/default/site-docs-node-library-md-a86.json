@@ -1,0 +1,23 @@
+{
+  "unversionedId": "node/library",
+  "id": "node/library",
+  "title": "第三方库",
+  "description": "bluebird",
+  "source": "@site/docs/node/library.md",
+  "sourceDirName": "node",
+  "slug": "/node/library",
+  "permalink": "/blog/docs/node/library",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/library.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "内置模块",
+    "permalink": "/blog/docs/node/build-in-modules"
+  },
+  "next": {
+    "title": "Vue",
+    "permalink": "/blog/docs/vue"
+  }
+}

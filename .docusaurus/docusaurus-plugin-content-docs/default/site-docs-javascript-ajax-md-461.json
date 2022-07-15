@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/AJAX",
+  "id": "javascript/AJAX",
+  "title": "AJAX",
+  "description": "| readyState | 描述                            |",
+  "source": "@site/docs/javascript/AJAX.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/AJAX",
+  "permalink": "/blog/docs/javascript/AJAX",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/AJAX.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generator",
+    "permalink": "/blog/docs/javascript/Generator"
+  },
+  "next": {
+    "title": "Fetch",
+    "permalink": "/blog/docs/javascript/Fetch"
+  }
+}

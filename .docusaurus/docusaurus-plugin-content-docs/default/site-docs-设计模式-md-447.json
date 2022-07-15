@@ -1,0 +1,25 @@
+{
+  "unversionedId": "设计模式",
+  "id": "设计模式",
+  "title": "设计模式",
+  "description": "单例模式",
+  "source": "@site/docs\\设计模式.md",
+  "sourceDirName": ".",
+  "slug": "/设计模式",
+  "permalink": "/blog/docs/设计模式",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/设计模式.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/blog/docs/docker"
+  },
+  "next": {
+    "title": "WebSocket",
+    "permalink": "/blog/docs/websocket"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Fetch",
+  "id": "javascript/Fetch",
+  "title": "Fetch",
+  "description": "通常我们可以使用Content-Disposition: attachment响应头部来下载资源。",
+  "source": "@site/docs/javascript/Fetch.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Fetch",
+  "permalink": "/blog/docs/javascript/Fetch",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Fetch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AJAX",
+    "permalink": "/blog/docs/javascript/AJAX"
+  },
+  "next": {
+    "title": "Date",
+    "permalink": "/blog/docs/javascript/Date"
+  }
+}

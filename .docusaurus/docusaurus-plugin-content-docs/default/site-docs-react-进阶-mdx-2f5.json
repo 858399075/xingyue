@@ -1,0 +1,23 @@
+{
+  "unversionedId": "react/进阶",
+  "id": "react/进阶",
+  "title": "底层原理",
+  "description": "Fiber架构",
+  "source": "@site/docs\\react\\进阶.mdx",
+  "sourceDirName": "react",
+  "slug": "/react/进阶",
+  "permalink": "/blog/docs/react/进阶",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react/进阶.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hook",
+    "permalink": "/blog/docs/react/Hook"
+  },
+  "next": {
+    "title": "第三方库",
+    "permalink": "/blog/docs/react/第三方库"
+  }
+}

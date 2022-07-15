@@ -1,0 +1,25 @@
+{
+  "unversionedId": "infra/前端工程化",
+  "id": "infra/前端工程化",
+  "title": "前端工程化",
+  "description": "配置文件",
+  "source": "@site/docs\\infra\\前端工程化.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/前端工程化",
+  "permalink": "/blog/docs/infra/前端工程化",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/前端工程化.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "types",
+    "permalink": "/blog/docs/react/types"
+  },
+  "next": {
+    "title": "Babel",
+    "permalink": "/blog/docs/infra/Babel"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "infra/Test",
+  "id": "infra/Test",
+  "title": "前端测试",
+  "description": "我们通常会使用console.log(fn())来测试函数输出是否符合预期，而这种做法有几点缺陷：",
+  "source": "@site/docs/infra/Test.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Test",
+  "permalink": "/blog/docs/infra/Test",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rollup",
+    "permalink": "/blog/docs/infra/Rollup"
+  },
+  "next": {
+    "title": "持续集成(CI)",
+    "permalink": "/blog/docs/infra/CI"
+  }
+}

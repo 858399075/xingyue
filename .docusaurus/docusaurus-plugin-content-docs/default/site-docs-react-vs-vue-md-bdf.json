@@ -1,0 +1,16 @@
+{
+  "unversionedId": "react-vs-vue",
+  "id": "react-vs-vue",
+  "title": "react-vs-vue",
+  "description": "React-vs-Vue",
+  "source": "@site/docs/react-vs-vue.md",
+  "sourceDirName": ".",
+  "slug": "/react-vs-vue",
+  "permalink": "/blog/docs/react-vs-vue",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react-vs-vue.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  }
+}

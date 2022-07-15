@@ -1,0 +1,23 @@
+{
+  "unversionedId": "node/module",
+  "id": "node/module",
+  "title": "模块化",
+  "description": "IIFE",
+  "source": "@site/docs/node/module.md",
+  "sourceDirName": "node",
+  "slug": "/node/module",
+  "permalink": "/blog/docs/node/module",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "版本更新日志",
+    "permalink": "/blog/docs/typescript/版本更新日志.mdx"
+  },
+  "next": {
+    "title": "NPM",
+    "permalink": "/blog/docs/node/npm"
+  }
+}

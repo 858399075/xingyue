@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/BOM",
+  "id": "javascript/BOM",
+  "title": "BOM",
+  "description": "window",
+  "source": "@site/docs/javascript/BOM.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/BOM",
+  "permalink": "/blog/docs/javascript/BOM",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/BOM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graphql",
+    "permalink": "/blog/docs/javascript/Graphql"
+  },
+  "next": {
+    "title": "DOM",
+    "permalink": "/blog/docs/javascript/DOM"
+  }
+}

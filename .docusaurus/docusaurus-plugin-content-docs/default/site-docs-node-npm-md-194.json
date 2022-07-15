@@ -1,0 +1,23 @@
+{
+  "unversionedId": "node/npm",
+  "id": "node/npm",
+  "title": "NPM",
+  "description": ".npmrc",
+  "source": "@site/docs/node/npm.md",
+  "sourceDirName": "node",
+  "slug": "/node/npm",
+  "permalink": "/blog/docs/node/npm",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/npm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模块化",
+    "permalink": "/blog/docs/node/module"
+  },
+  "next": {
+    "title": "事件循环",
+    "permalink": "/blog/docs/node/eventloop"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "infra/Babel",
+  "id": "infra/Babel",
+  "title": "Babel",
+  "description": "如果想要了解Babel的底层原理，可以看编译原理一节",
+  "source": "@site/docs/infra/Babel.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Babel",
+  "permalink": "/blog/docs/infra/Babel",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Babel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "前端工程化",
+    "permalink": "/blog/docs/infra/前端工程化"
+  },
+  "next": {
+    "title": "PostCSS",
+    "permalink": "/blog/docs/infra/PostCSS"
+  }
+}

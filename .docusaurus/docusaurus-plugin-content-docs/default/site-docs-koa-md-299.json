@@ -1,0 +1,16 @@
+{
+  "unversionedId": "koa",
+  "id": "koa",
+  "title": "koa",
+  "description": "Koa",
+  "source": "@site/docs/koa.md",
+  "sourceDirName": ".",
+  "slug": "/koa",
+  "permalink": "/blog/docs/koa",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/koa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  }
+}

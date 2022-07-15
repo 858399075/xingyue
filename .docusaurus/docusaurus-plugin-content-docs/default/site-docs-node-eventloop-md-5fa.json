@@ -1,0 +1,23 @@
+{
+  "unversionedId": "node/eventloop",
+  "id": "node/eventloop",
+  "title": "事件循环",
+  "description": "浏览器和Node环境都存在事件循环这一概念，但因为它们基于不同的架构所以实现原理也有些许不同，比如浏览器环境的事件循环是通过主线程和工作线程之间的调度实现的。另外，在Node的 11.0版本的发布之后，同一段代码在两个不同环境的表现也越来越相似了，所以在这里我会主要以浏览器环境介绍事件循环的原理。",
+  "source": "@site/docs/node/eventloop.md",
+  "sourceDirName": "node",
+  "slug": "/node/eventloop",
+  "permalink": "/blog/docs/node/eventloop",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/eventloop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NPM",
+    "permalink": "/blog/docs/node/npm"
+  },
+  "next": {
+    "title": "流与二进制",
+    "permalink": "/blog/docs/node/stream"
+  }
+}

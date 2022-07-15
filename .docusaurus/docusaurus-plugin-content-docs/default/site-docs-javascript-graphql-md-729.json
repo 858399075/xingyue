@@ -1,0 +1,23 @@
+{
+  "unversionedId": "javascript/Graphql",
+  "id": "javascript/Graphql",
+  "title": "Graphql",
+  "description": "Graphql是一门对标传统RESTful的API查询语言，它的特色在于可以在前端指定服务端返回的数据字段类型、还能够将相关的查询聚合成一个请求。",
+  "source": "@site/docs/javascript/Graphql.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/Graphql",
+  "permalink": "/blog/docs/javascript/Graphql",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/Graphql.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "装饰器",
+    "permalink": "/blog/docs/javascript/装饰器"
+  },
+  "next": {
+    "title": "BOM",
+    "permalink": "/blog/docs/javascript/BOM"
+  }
+}

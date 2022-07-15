@@ -1,0 +1,25 @@
+{
+  "unversionedId": "react/React",
+  "id": "react/React",
+  "title": "React",
+  "description": "虚拟DOM",
+  "source": "@site/docs/react/React.mdx",
+  "sourceDirName": "react",
+  "slug": "/react/",
+  "permalink": "/blog/docs/react/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react/React.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vue",
+    "permalink": "/blog/docs/vue"
+  },
+  "next": {
+    "title": "基础",
+    "permalink": "/blog/docs/react/基础"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "其它",
+  "id": "其它",
+  "title": "其它",
+  "description": "进程间通信",
+  "source": "@site/docs\\其它.md",
+  "sourceDirName": ".",
+  "slug": "/其它",
+  "permalink": "/blog/docs/其它",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/其它.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
