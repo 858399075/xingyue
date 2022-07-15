@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '星月',
   tagline: '欢迎来到星月的前端进阶指南',
-  url: 'https://github.com/858399075/xingyue.git',
+  url: 'https://github.com/858399075/xingyue',
   baseUrl: '/blog/', 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +50,7 @@ const config = {
       hideableSidebar: true, 
       announcementBar: {
         id: 'support_us',
-        content: '⭐️ 如果这个网站能帮助到你，欢迎给一个star支持作者  <a target="_blank" rel="noopener noreferrer" href="https://github.com/858399075/xingyue.git">GitHub</a>',
+        content: '⭐️ 如果这个网站能帮助到你，欢迎给一个star支持作者  <a target="_blank" rel="noopener noreferrer" href="https://github.com/858399075/xingyue">GitHub</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
@@ -71,7 +71,7 @@ const config = {
           },
           {to: 'blog/面经', label: '面经', position: 'right'},
           {
-            href: 'https://github.com/858399075/xingyue.git',
+            href: 'https://github.com/858399075/xingyue',
             label: 'GitHub',
             position: 'right',
           },
